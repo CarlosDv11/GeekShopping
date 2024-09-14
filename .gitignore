@@ -1,0 +1,5 @@
+# Ignorar diretórios e arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.log
